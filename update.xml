@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>1.1.4.0</version>
+    <version>1.1.4</version>
     <url>https://github.com/dxnk666/TargetTracker/releases/download/v1.1.4/TargetTracker.exe</url>
     <changelog>https://github.com/dxnk666/TargetTracker/releases/tag/v1.1.4</changelog>
     <mandatory>false</mandatory>
