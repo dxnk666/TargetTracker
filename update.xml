@@ -4,4 +4,5 @@
   <url>https://github.com/dxnk666/TargetTracker/releases/download/v2.1.2.0/TargetTracker.exe</url>
   <changelog>https://github.com/dxnk666/TargetTracker/releases/tag/v2.1.2.0</changelog>
   <mandatory>false</mandatory>
+  <executable>TargetTracker.exe</executable>
 </item>
