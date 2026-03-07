@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-  <version>2.3.1.0</version>
-  <url>https://github.com/dxnk666/TargetTracker/releases/download/v2.3.1.0/TargetTracker-2.3.1.0.exe</url>
-  <changelog>https://github.com/dxnk666/TargetTracker/releases/tag/v2.3.1.0</changelog>
+  <version>2.3.2.0</version>
+  <url>https://github.com/dxnk666/TargetTracker/releases/download/v2.3.2.0/TargetTracker-2.3.2.0.exe</url>
+  <changelog>https://github.com/dxnk666/TargetTracker/releases/tag/v2.3.2.0</changelog>
   <mandatory>false</mandatory>
 </item>
