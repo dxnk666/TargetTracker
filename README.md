@@ -131,6 +131,3 @@ Accessible from Settings → Admin Panel
 
 **"Unable to connect to the server"**
 → The API may be starting up. Wait a moment and try again.
-
-**Targets not updating**
-→ The list auto-refreshes every 10 seconds. You can also switch pages to force a refresh.
